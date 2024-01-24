@@ -62,7 +62,7 @@
         font-family:'Franklin Gothic Medium';
         font-size: 130%;
         text-align: center;
-        padding: 20px;
+        padding: 30px;
         padding-top: 1%;
         background-color: rgb(204, 241, 227);
 }
@@ -72,6 +72,7 @@
         font-size: 130%;
         text-align: center;
         padding: 30px;
+        padding-top: 3%;
 }
 .startbox{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -81,8 +82,8 @@
     border-radius: 20%;
     border: 2px solid;
     border-color:rgb(32, 129, 129);
-    margin-left: 43%;
-    margin-right: 40%;
+    margin-left: 29%;
+    margin-right: 53%;
     margin-top: 5%;
     margin-bottom: 4%;
     color: black;
@@ -157,7 +158,7 @@
     border: 2px solid;
     border-color:rgb(254, 255, 255);
     border-radius: 20px;
-    margin-left: 50%;
+    margin-left: 45%;
     margin-right: 20%;
     width: 100px;
     height: 30px;
@@ -307,6 +308,22 @@
     margin-right: 3%;
     margin-top: 5%;
     margin-bottom: 4%;
+    padding: 20px;
+
+}
+.newresourcestop{
+    display: flex;
+    flex-direction: row;
+    height: 20rem;
+    width: 100%;
+    justify-content: space-evenly;
+    background-color:white;
+}
+.newresources2top{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid;
+    border-color:rgb(219, 233, 233);
     padding: 20px;
 
 }
