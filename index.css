@@ -318,12 +318,16 @@
     width: 100%;
     justify-content: space-evenly;
     background-color:white;
+    padding-left: 6%;
 }
 .newresources2top{
     display: flex;
     flex-direction: column;
     border: 2px solid;
     border-color:rgb(219, 233, 233);
+    border-radius: 20px;
     padding: 20px;
+    font-family: 'Segoe UI';
+    font-size: medium;
 
 }
